@@ -6,7 +6,8 @@ public class dashboard {
 		
 		System.out.println("dashboard panal");
 		System.out.println(" github");
-		System.out.println("hello lokesh baraskar");
+		System.out.println(" lokesh baraskar");
+		System.out.println("hello velocity");
 			
 		}
 	}
